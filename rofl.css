@@ -8,23 +8,25 @@ body {
     align-items: center;
     gap: 1rem;
     margin: 1em;
+	font-size: 24px;
+	color: white;
 }
 
 .content-left {
     background: blue;
-    padding: 10em;
+    padding: 1em;
     margin: 2em;
     border-radius: 20px;
 	justify-content: left
 }
 
 .content-right {
-    background: white;
+    background: black;
     padding: 1em;
     margin: 2em;
     border-radius: 20px;
 }
 
-.profile-picture {
-    max-width: 150px;
+.kartinka {
+    max-width: 564px;
     border-radius: 50%;
